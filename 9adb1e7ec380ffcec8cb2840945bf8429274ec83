@@ -1,0 +1,1 @@
+deploy-note: production deploy 2024-03-10 — rollback sur files01://it-backups/web_backup_2024-03-10. JWT_SECRET rotation planifiee T2 2024 (ticket #298). Redis session store: 10.23.0.10:6379 (no-auth — voir audit VC-01 bis).
